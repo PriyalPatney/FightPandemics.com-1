@@ -51,7 +51,7 @@ const Footer = () => (
       Copyright 2020 Fight Pandemic. All rights reserved.
     </span>
     <br />
-    <a style={links}>Terms and conditions</a>|
+    <a style={links}>Terms &amp; conditions</a>|
     <a style={links}>Privacy Policy</a>|<a style={links}>Cookies Policy</a>
   </footer>
 );
